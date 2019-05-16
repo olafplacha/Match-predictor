@@ -1,0 +1,381 @@
+,HomeTeam,AwayTeam,Results
+0,Man United,Leicester,1
+1,Bournemouth,Cardiff,1
+2,Fulham,Crystal Palace,2
+3,Huddersfield,Chelsea,2
+4,Newcastle,Tottenham,2
+5,Watford,Brighton,1
+6,Wolves,Everton,0
+7,Arsenal,Man City,2
+8,Liverpool,West Ham,1
+9,Southampton,Burnley,0
+10,Cardiff,Newcastle,0
+11,Chelsea,Arsenal,1
+12,Everton,Southampton,1
+13,Leicester,Wolves,1
+14,Tottenham,Fulham,1
+15,West Ham,Bournemouth,2
+16,Brighton,Man United,1
+17,Burnley,Watford,2
+18,Man City,Huddersfield,1
+19,Crystal Palace,Liverpool,2
+20,Arsenal,West Ham,1
+21,Bournemouth,Everton,0
+22,Huddersfield,Cardiff,0
+23,Liverpool,Brighton,1
+24,Southampton,Leicester,2
+25,Wolves,Man City,0
+26,Fulham,Burnley,1
+27,Newcastle,Chelsea,2
+28,Watford,Crystal Palace,1
+29,Man United,Tottenham,2
+30,Brighton,Fulham,0
+31,Chelsea,Bournemouth,1
+32,Crystal Palace,Southampton,2
+33,Everton,Huddersfield,0
+34,Leicester,Liverpool,2
+35,Man City,Newcastle,1
+36,West Ham,Wolves,2
+37,Burnley,Man United,2
+38,Cardiff,Arsenal,2
+39,Watford,Tottenham,1
+40,Bournemouth,Leicester,1
+41,Chelsea,Cardiff,1
+42,Huddersfield,Crystal Palace,2
+43,Man City,Fulham,1
+44,Newcastle,Arsenal,2
+45,Tottenham,Liverpool,2
+46,Watford,Man United,2
+47,Everton,West Ham,2
+48,Wolves,Burnley,1
+49,Southampton,Brighton,0
+50,Brighton,Tottenham,2
+51,Burnley,Bournemouth,1
+52,Cardiff,Man City,2
+53,Crystal Palace,Newcastle,0
+54,Fulham,Watford,0
+55,Leicester,Huddersfield,1
+56,Liverpool,Southampton,1
+57,Man United,Wolves,0
+58,Arsenal,Everton,1
+59,West Ham,Chelsea,0
+60,Arsenal,Watford,1
+61,Chelsea,Liverpool,0
+62,Everton,Fulham,1
+63,Huddersfield,Tottenham,2
+64,Man City,Brighton,1
+65,Newcastle,Leicester,2
+66,West Ham,Man United,1
+67,Wolves,Southampton,1
+68,Cardiff,Burnley,2
+69,Bournemouth,Crystal Palace,1
+70,Brighton,West Ham,1
+71,Burnley,Huddersfield,0
+72,Crystal Palace,Wolves,2
+73,Leicester,Everton,2
+74,Man United,Newcastle,1
+75,Tottenham,Cardiff,1
+76,Watford,Bournemouth,2
+77,Fulham,Arsenal,2
+78,Liverpool,Man City,0
+79,Southampton,Chelsea,2
+80,Bournemouth,Southampton,0
+81,Cardiff,Fulham,1
+82,Chelsea,Man United,0
+83,Huddersfield,Liverpool,2
+84,Man City,Burnley,1
+85,Newcastle,Brighton,2
+86,West Ham,Tottenham,2
+87,Wolves,Watford,2
+88,Everton,Crystal Palace,1
+89,Arsenal,Leicester,1
+90,Brighton,Wolves,1
+91,Fulham,Bournemouth,2
+92,Leicester,West Ham,0
+93,Liverpool,Cardiff,1
+94,Southampton,Newcastle,0
+95,Watford,Huddersfield,1
+96,Burnley,Chelsea,2
+97,Crystal Palace,Arsenal,0
+98,Man United,Everton,1
+99,Tottenham,Man City,2
+100,Arsenal,Liverpool,0
+101,Bournemouth,Man United,2
+102,Cardiff,Leicester,2
+103,Everton,Brighton,1
+104,Newcastle,Watford,1
+105,West Ham,Burnley,1
+106,Wolves,Tottenham,2
+107,Chelsea,Crystal Palace,1
+108,Man City,Southampton,1
+109,Huddersfield,Fulham,1
+110,Cardiff,Brighton,1
+111,Crystal Palace,Tottenham,2
+112,Huddersfield,West Ham,0
+113,Leicester,Burnley,0
+114,Newcastle,Bournemouth,1
+115,Southampton,Watford,0
+116,Arsenal,Wolves,0
+117,Chelsea,Everton,0
+118,Liverpool,Fulham,1
+119,Man City,Man United,1
+120,Brighton,Leicester,0
+121,Everton,Cardiff,1
+122,Fulham,Southampton,1
+123,Man United,Crystal Palace,0
+124,Tottenham,Chelsea,1
+125,Watford,Liverpool,2
+126,West Ham,Man City,2
+127,Bournemouth,Arsenal,2
+128,Wolves,Huddersfield,2
+129,Burnley,Newcastle,2
+130,Cardiff,Wolves,1
+131,Crystal Palace,Burnley,1
+132,Huddersfield,Brighton,2
+133,Leicester,Watford,1
+134,Man City,Bournemouth,1
+135,Newcastle,West Ham,2
+136,Southampton,Man United,0
+137,Arsenal,Tottenham,1
+138,Chelsea,Fulham,1
+139,Liverpool,Everton,1
+140,Bournemouth,Huddersfield,1
+141,Brighton,Crystal Palace,1
+142,Watford,Man City,2
+143,West Ham,Cardiff,1
+144,Burnley,Liverpool,2
+145,Everton,Newcastle,0
+146,Fulham,Leicester,0
+147,Man United,Arsenal,0
+148,Tottenham,Southampton,1
+149,Wolves,Chelsea,1
+150,Arsenal,Huddersfield,1
+151,Bournemouth,Liverpool,2
+152,Burnley,Brighton,1
+153,Cardiff,Southampton,1
+154,Chelsea,Man City,1
+155,Leicester,Tottenham,2
+156,Man United,Fulham,1
+157,West Ham,Crystal Palace,1
+158,Newcastle,Wolves,2
+159,Everton,Watford,0
+160,Crystal Palace,Leicester,1
+161,Fulham,West Ham,2
+162,Huddersfield,Newcastle,2
+163,Man City,Everton,1
+164,Tottenham,Burnley,1
+165,Watford,Cardiff,1
+166,Wolves,Bournemouth,1
+167,Brighton,Chelsea,2
+168,Liverpool,Man United,1
+169,Southampton,Arsenal,1
+170,Wolves,Liverpool,2
+171,Arsenal,Burnley,1
+172,Bournemouth,Brighton,1
+173,Cardiff,Man United,2
+174,Chelsea,Leicester,2
+175,Huddersfield,Southampton,2
+176,Man City,Crystal Palace,2
+177,Newcastle,Fulham,0
+178,West Ham,Watford,2
+179,Everton,Tottenham,2
+180,Brighton,Arsenal,0
+181,Burnley,Everton,2
+182,Crystal Palace,Cardiff,0
+183,Fulham,Wolves,0
+184,Leicester,Man City,1
+185,Liverpool,Newcastle,1
+186,Man United,Huddersfield,1
+187,Tottenham,Bournemouth,1
+188,Watford,Chelsea,2
+189,Southampton,West Ham,2
+190,Brighton,Everton,1
+191,Fulham,Huddersfield,1
+192,Leicester,Cardiff,2
+193,Liverpool,Arsenal,1
+194,Tottenham,Wolves,2
+195,Watford,Newcastle,0
+196,Burnley,West Ham,1
+197,Crystal Palace,Chelsea,2
+198,Man United,Bournemouth,1
+199,Southampton,Man City,2
+200,Arsenal,Fulham,1
+201,Cardiff,Tottenham,2
+202,Everton,Leicester,2
+203,Bournemouth,Watford,0
+204,Chelsea,Southampton,0
+205,Huddersfield,Burnley,2
+206,Newcastle,Man United,2
+207,West Ham,Brighton,0
+208,Wolves,Crystal Palace,2
+209,Man City,Liverpool,1
+210,Brighton,Liverpool,2
+211,Burnley,Fulham,1
+212,Cardiff,Huddersfield,0
+213,Chelsea,Newcastle,1
+214,Crystal Palace,Watford,2
+215,Leicester,Southampton,2
+216,West Ham,Arsenal,1
+217,Everton,Bournemouth,1
+218,Tottenham,Man United,2
+219,Man City,Wolves,1
+220,Arsenal,Chelsea,1
+221,Bournemouth,West Ham,1
+222,Liverpool,Crystal Palace,1
+223,Man United,Brighton,1
+224,Newcastle,Cardiff,1
+225,Southampton,Everton,1
+226,Watford,Burnley,0
+227,Wolves,Leicester,1
+228,Fulham,Tottenham,2
+229,Huddersfield,Man City,2
+230,Arsenal,Cardiff,1
+231,Fulham,Brighton,1
+232,Huddersfield,Everton,2
+233,Man United,Burnley,0
+234,Newcastle,Man City,1
+235,Wolves,West Ham,1
+236,Bournemouth,Chelsea,1
+237,Liverpool,Leicester,0
+238,Southampton,Crystal Palace,0
+239,Tottenham,Watford,1
+240,Brighton,Watford,0
+241,Burnley,Southampton,0
+242,Cardiff,Bournemouth,1
+243,Chelsea,Huddersfield,1
+244,Crystal Palace,Fulham,1
+245,Everton,Wolves,2
+246,Tottenham,Newcastle,1
+247,Leicester,Man United,2
+248,Man City,Arsenal,1
+249,West Ham,Liverpool,0
+250,Everton,Man City,2
+251,Brighton,Burnley,2
+252,Crystal Palace,West Ham,0
+253,Fulham,Man United,2
+254,Huddersfield,Arsenal,2
+255,Liverpool,Bournemouth,1
+256,Southampton,Cardiff,2
+257,Watford,Everton,1
+258,Man City,Chelsea,1
+259,Tottenham,Leicester,1
+260,Wolves,Newcastle,0
+261,Cardiff,Watford,2
+262,West Ham,Fulham,1
+263,Bournemouth,Wolves,0
+264,Burnley,Tottenham,1
+265,Leicester,Crystal Palace,2
+266,Newcastle,Huddersfield,1
+267,Arsenal,Southampton,1
+268,Man United,Liverpool,0
+269,Cardiff,Everton,2
+270,Huddersfield,Wolves,1
+271,Leicester,Brighton,1
+272,Newcastle,Burnley,1
+273,Arsenal,Bournemouth,1
+274,Chelsea,Tottenham,1
+275,Crystal Palace,Man United,2
+276,Liverpool,Watford,1
+277,Man City,West Ham,1
+278,Southampton,Fulham,1
+279,Bournemouth,Man City,2
+280,Brighton,Huddersfield,1
+281,Burnley,Crystal Palace,2
+282,Man United,Southampton,1
+283,Tottenham,Arsenal,0
+284,West Ham,Newcastle,1
+285,Wolves,Cardiff,1
+286,Everton,Liverpool,0
+287,Fulham,Chelsea,2
+288,Watford,Leicester,1
+289,Cardiff,West Ham,1
+290,Crystal Palace,Brighton,2
+291,Huddersfield,Bournemouth,2
+292,Leicester,Fulham,1
+293,Man City,Watford,1
+294,Newcastle,Everton,1
+295,Southampton,Tottenham,1
+296,Arsenal,Man United,1
+297,Chelsea,Wolves,0
+298,Liverpool,Burnley,1
+299,Bournemouth,Newcastle,0
+300,Burnley,Leicester,2
+301,West Ham,Huddersfield,1
+302,Everton,Chelsea,1
+303,Fulham,Liverpool,2
+304,Brighton,Southampton,2
+305,Burnley,Wolves,1
+306,Crystal Palace,Huddersfield,1
+307,Fulham,Man City,2
+308,Leicester,Bournemouth,1
+309,Man United,Watford,1
+310,West Ham,Everton,2
+311,Cardiff,Chelsea,2
+312,Liverpool,Tottenham,1
+313,Arsenal,Newcastle,1
+314,Watford,Fulham,1
+315,Wolves,Man United,1
+316,Chelsea,Brighton,1
+317,Man City,Cardiff,1
+318,Tottenham,Crystal Palace,1
+319,Southampton,Liverpool,2
+320,Bournemouth,Burnley,2
+321,Huddersfield,Leicester,2
+322,Newcastle,Crystal Palace,2
+323,Everton,Arsenal,1
+324,Chelsea,West Ham,1
+325,Leicester,Newcastle,2
+326,Brighton,Bournemouth,2
+327,Burnley,Cardiff,1
+328,Fulham,Everton,1
+329,Man United,West Ham,1
+330,Southampton,Wolves,1
+331,Tottenham,Huddersfield,1
+332,Crystal Palace,Man City,2
+333,Liverpool,Chelsea,1
+334,Watford,Arsenal,2
+335,Brighton,Cardiff,2
+336,Bournemouth,Fulham,2
+337,Huddersfield,Watford,2
+338,Man City,Tottenham,1
+339,Newcastle,Southampton,1
+340,West Ham,Leicester,0
+341,Wolves,Brighton,0
+342,Arsenal,Crystal Palace,2
+343,Cardiff,Liverpool,2
+344,Everton,Man United,1
+345,Chelsea,Burnley,0
+346,Tottenham,Brighton,1
+347,Watford,Southampton,0
+348,Man United,Man City,2
+349,Wolves,Arsenal,1
+350,Liverpool,Huddersfield,1
+351,Brighton,Newcastle,0
+352,Crystal Palace,Everton,0
+353,Fulham,Cardiff,1
+354,Southampton,Bournemouth,0
+355,Tottenham,West Ham,2
+356,Watford,Wolves,2
+357,Burnley,Man City,2
+358,Leicester,Arsenal,1
+359,Man United,Chelsea,0
+360,Everton,Burnley,1
+361,Bournemouth,Tottenham,1
+362,Cardiff,Crystal Palace,2
+363,Newcastle,Liverpool,2
+364,West Ham,Southampton,1
+365,Wolves,Fulham,1
+366,Arsenal,Brighton,0
+367,Chelsea,Watford,1
+368,Huddersfield,Man United,0
+369,Man City,Leicester,1
+370,Brighton,Man City,2
+371,Burnley,Arsenal,2
+372,Crystal Palace,Bournemouth,1
+373,Fulham,Newcastle,2
+374,Leicester,Chelsea,0
+375,Liverpool,Wolves,1
+376,Man United,Cardiff,2
+377,Southampton,Huddersfield,0
+378,Tottenham,Everton,0
+379,Watford,West Ham,2
